@@ -1,0 +1,38 @@
+div{text-align:center;}
+body{font-family:font-family:"Comic Sans MS","幼圆","黑体",sans-serif;
+    font-size:30px;
+    background-size:cover;
+    background-attachment：fixed;}
+ul{ list-style-type:none;
+    background-color:rgb(176,196,222,0);
+    text-align:center;
+    font-size:50px}
+li{display:inline;
+  margin-left:30px;
+  }
+#btdiv{
+   display:table-cell;
+   text-align:center;
+   }
+#bt{
+    width:80%;
+    height:50%;}
+#biaoti{
+    background:PaleTurquoise;
+    overflow:hidden;list-style:none;width:350px;height:55px;margin:0px;padding:0;
+    float:left;
+    border:1px solid pink;
+    }
+#CountMsg{
+    width:200px;
+    height:230px;
+    background-color:PowderBlue;
+    padding:opx;
+    margin:left;
+    
+    }
+#t_d{font-size:60px;}
+p{height:30px;line-height:30px;white-space:nowrap;overflow:hidden;font-size:20px;}
+a{color:PapayaWhip;}
+
+
